@@ -1,0 +1,392 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Retro Blog\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-28 09:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:77 inc/template-tags.php:94 inc/template-tags.php:100
+msgid " "
+msgstr ""
+
+#: inc/template-tags.php:79
+#, php-format
+msgid " %1$s"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "1 Comment"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"A clean minimalist mobile optimized WordPress theme crafted for influencers "
+"and infopreneurs. With a focus on crisp typography and unique styling, Retro "
+"Blog will highlight your content beautifully and communicate an authentic "
+"and high quality brand to your readers. Using native Customizer Theme "
+"options you can customize your blog the way you want very easy!"
+msgstr ""
+
+#: inc/meta-box.php:75
+msgid "Appearance Settings"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:37
+msgid "Banner Slider Options"
+msgstr ""
+
+#: inc/added-functions.php:65
+msgctxt "Bungee Shade font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:84
+msgid "Button Text Front Page Slider"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:69
+msgid "Category For Front Page Slider"
+msgstr ""
+
+#: comments.php:47 comments.php:68
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:85
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: post title
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr ""
+
+#: components/post/content.php:41 components/post/content.php:78
+#: inc/customizer/customizer-mode.php:59
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post.
+#: components/post/content-single.php:34
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/customizer/customizer-mode.php:63
+msgid "Copyright All rights reserved"
+msgstr ""
+
+#: inc/meta-box.php:116
+msgid "Disable Feature Image"
+msgstr ""
+
+#. %s: Name of current post
+#: inc/template-tags.php:115 components/page/content-page.php:39
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:236
+msgid "Enable Content Description for Small Archive Posts"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:113
+msgid "Enable Featured Category"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:53
+msgid "Enable Front Page Slider"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:261
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:17
+msgid "Enable Site Description"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:142
+msgid "Featured Category Background Image."
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:97
+msgid "Featured Category Options"
+msgstr ""
+
+#: inc/added-functions.php:18
+msgid "Footer Col-1"
+msgstr ""
+
+#: inc/added-functions.php:27
+msgid "Footer Col-2"
+msgstr ""
+
+#: inc/added-functions.php:36
+msgid "Footer Col-3"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:270
+msgid "Footer Credit Options"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:286
+msgid "Footer Credit Text"
+msgstr ""
+
+#: inc/meta-box.php:50
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:178
+#: inc/customizer/customizer-added-options.php:199
+#: inc/customizer/customizer-added-options.php:220
+msgid "FullWidth"
+msgstr ""
+
+#: inc/meta-box.php:38
+msgid "Global sidebar"
+msgstr ""
+
+#. Name of the template
+msgid "Home Page Template"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://wpinterface.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wpinterface.com/themes/retro-blog/"
+msgstr ""
+
+#: 404.php:20
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: components/post/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:157
+msgid "Layout Options"
+msgstr ""
+
+#: inc/meta-box.php:17 inc/meta-box.php:25
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/template-tags.php:108
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:176
+#: inc/customizer/customizer-added-options.php:197
+#: inc/customizer/customizer-added-options.php:218
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:46
+msgid "Left sidebar"
+msgstr ""
+
+#: 404.php:32
+msgid "Most Used Categories"
+msgstr ""
+
+#: comments.php:51 comments.php:72
+msgid "Newer Comments"
+msgstr ""
+
+#: home-page-template.php:66
+msgid "Newer Entries"
+msgstr ""
+
+#: components/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Older Comments"
+msgstr ""
+
+#: home-page-template.php:60
+msgid "Older Entries"
+msgstr ""
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/added-functions.php:73
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/added-functions.php:69
+msgctxt "Oregano font: on or off"
+msgid "on"
+msgstr ""
+
+#: components/page/content-page.php:29 components/post/content-single.php:39
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-tags.php:33
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:28 inc/template-tags.php:60
+#, php-format
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr ""
+
+#: inc/template-tags.php:96
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:245
+msgid "Preloader Options"
+msgstr ""
+
+#: components/navigation/navigation-top.php:5
+msgid "Primary Menu"
+msgstr ""
+
+#: components/post/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:143
+#, php-format
+msgid "Recommended Size %1$s X %2$s"
+msgstr ""
+
+#. Name of the theme
+msgid "Retro Blog"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:26
+msgid "Retro Blog Options"
+msgstr ""
+
+#: inc/customizer/customizer-upsell.php:83
+msgid "Retro Blog Pro"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:177
+#: inc/customizer/customizer-added-options.php:198
+#: inc/customizer/customizer-added-options.php:219
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:42
+msgid "Right sidebar"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:194
+msgid "Select Archive Layout"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:129
+msgid "Select Featured Category"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:173
+msgid "Select Homepage/Blog Layout"
+msgstr ""
+
+#: inc/customizer/customizer-added-options.php:215
+msgid "Select Single Page/Post Layout"
+msgstr ""
+
+#: inc/added-functions.php:9
+msgid "Sidebar"
+msgstr ""
+
+#: inc/meta-box.php:89
+msgid "Sidebar Layout"
+msgstr ""
+
+#: header.php:85
+msgid "Skip to content"
+msgstr ""
+
+#: functions.php:53
+msgid "Social Menu"
+msgstr ""
+
+#: components/post/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/template-tags.php:102
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: components/footer/site-info.php:9
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: functions.php:52
+msgid "Top Menu"
+msgstr ""
+
+#. %1$s: smiley
+#: 404.php:49
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: inc/customizer/customizer-upsell.php:84
+msgid "Upgrade To Pro"
+msgstr ""
+
+#. Author of the theme
+msgid "WPInterface"
+msgstr ""
